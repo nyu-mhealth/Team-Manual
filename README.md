@@ -66,7 +66,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Need to Know
 **Calendars and Schedules**    
 
-When you're not going to be in the office. Rather your sick, travelling, overwhelmed with midterms, broke up with your boyfriend/girlfrind/both/yourself - just please tell us you are can't come in through Slack or email (no judgement).    
+When you're not going to be in the office. Rather your sick, travelling, overwhelmed with midterms, broke up with your boyfriend/girlfrind/both/yourself - please tell us you can't come in through Slack or email.    
 
 We currently have three Google calendars we can share with you. For help on how to use NYU Google Calendars look [here](https://www.nyu.edu/life/resources-and-services/information-technology/communication-and-conferencing/nyu-calendar.html).  
  - **mHealth Student Schedules:** Keep this calendar updated with the days and times you plan on being in the office.   
@@ -75,12 +75,9 @@ We currently have three Google calendars we can share with you. For help on how 
  - **mHealth Meetings:** Add all meetings here.
  
 
-**Meetings, Video Conferencing, and Phone Conference Line**  
+**Team Meeting & Video Conferencing**  
 
-We have a weekly meetings in Room 718:
 
-- [The Weekly Team Meeting](The Weekly Team Meeting.md): Wednesdays - 11:00-12:00
+- [We have a weekly meetings in Room 718](The Weekly Team Meeting.md): Wednesdays - 11:00-12:00
 
 When you can't meet face-to-face, you can come virtually by going here: https://appear.in/nyumhealth.
-
-CGPH does have a conference line. It can be reserved if you have access to the 41 E. 11th St Room Reservation Calendar. Otherwise, check with Koylan.
