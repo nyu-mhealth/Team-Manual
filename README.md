@@ -10,7 +10,7 @@ You can use this manual to learn more about the team, systems, and tools we use 
 Congratulations! Since you are reading this, you have accomplised the first step in your onboarding process... accessing our Github site! You are inside what is called a repository (repo for short). Each repo on the NYU mHealth site is associated with a research project or topic where files, code, and documentation can be updated and managed. Git is the current cool kid for [version control](http://git-scm.com/video/what-is-version-control). But more on that later...
 
 ####<img src="/Images/avatar.ico" width="40">  Create Your Avatar
-The next step to becoming an NYU mHealth team member is creating your avatar! Yes, we know it's whimsical, but believe us, it serves a purpose. You'll see. For now, download one of the following apps (or add your favorite to the list!), create your avatar, and send it as a .png or .jpg to holly.orr@nyu.edu or sasha.guttentag@nyu.edu.
+The next step to becoming an NYU mHealth team member is creating your avatar! Yes, we know it's whimsical, but believe us, it serves a purpose. You'll see. For now, download one of the following apps (or add your favorite to the list!), create your avatar, and send it as a .png or .jpg to av1155@nyu.edu or sasha.guttentag@nyu.edu.
 
 - https://bitmoji.com/  
 - http://www.faceyourmanga.com/  
@@ -24,7 +24,7 @@ As we create the website, we'd like to include mini-bios about all of our member
 *Jane Doe is an Epidemiology MPH student at the NYU College of Global Public Health. Her interests include geospatial analysis and predictive behavior modeling. Within the mHealth Lab, she is currently focused on QA testing of mobile surveying software and cross-collaborative project management.* 
 
 ####<img src="https://github.com/nyu-mhealth/Onboarding/blob/master/Images/brainstorming-icon.png" width="50">  The Culture
-We are a team that thrives on collaboration. We honor our unique backgrounds, expertise, and insights. There are no "dumb" questions or answers. No one is born knowing how to use Jira, build a log-linear model, program in Python, or develop the best research protocol. That's why we are here, right? To learn! 
+We are a team that thrives on collaboration. We honor our unique backgrounds, expertise, and insights. There are no "dumb" questions or answers. No one is born knowing how to build a log-linear model, program in Python, or develop the best research protocol. That's why we are here, right? To learn! 
 
 We like to say if you meet someone that is born knowing how to do *everything* then [they are probably some sort of AI from the future](https://en.wikipedia.org/wiki/The_Terminator) and you should run-away as fast as possible! 
 
@@ -44,7 +44,6 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 **Required**  
 - [NYU mHealth Google Drive](Docs and Data - Archive and Share.md)    
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
-- [Jira](Agile, Scrum (and Jira).md)
 - [Slack](How We Communicate.md)
 
 **Optional - Request Access**  
@@ -75,13 +74,6 @@ We currently have three Google calendars we can share with you. For help on how 
  - **mHealth Events:** Add events here that we host or would be of interest to the group.
  - **mHealth Meetings:** Add all meetings here.
  
- 
-**Travel and Reimbursements**  
-This is Koylan Gomez, Faculty Admin Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="35">  
-
-Koylan supports 9 faculty at CGPH (phew!). So when we need her, we want to be as helpful as possible. If you are making travel plans and need to purchase transportation and/or accomodations, please try to make the request at least a week in advance. If you find yourself needing to make last minute changes or plans, please talk to Tom.
-
-Koylan can also help with reimbursements on travel expenses and other purchases related to NYU mHealth. These will require you provide receipts!
 
 **Meetings, Video Conferencing, and Phone Conference Line**  
 
