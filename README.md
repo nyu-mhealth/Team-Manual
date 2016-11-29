@@ -75,7 +75,7 @@ We currently have three Google calendars we can share with you. For help on how 
  - **mHealth Meetings:** Add all meetings here.
  
 
-**Team Meeting & Video Conferencing**  
+**Team Meeting & Video Conferencing**   
 
 
 - [We have a weekly meetings in Room 718](The Weekly Team Meeting.md): Wednesdays - 11:00-12:00
