@@ -2,9 +2,9 @@
 
 ##<img src="/Images/nervous.jpg" width="120">  Your First Day: Don't Sweat It
 ####<img src="/Images/cropped-logo_transparent.png" width="40">  Welcome
-We are excited to have you as part of the NYU mHealth Team! First off, take a minute to add your info to this [spreadsheet](https://docs.google.com/spreadsheets/d/1oxFE-A4XSGE57QjfEF16QaH1KA5AGuzfP-C-u4MOGOI/edit#gid=0). 
+We are excited to have you as part of the NYU mHealth Team! 
 
-If we haven't done this already, you should schedule time with holly.orr@nyu.edu or sasha.guttentag@nyu.edu so we can give you a brief introduction to the tools we use and verify you have access. After that, you can use this manual to learn more about the team, systems, and tools we use for effective collaboration. Have fun!
+You can use this manual to learn more about the team, systems, and tools we use for effective collaboration. Have fun!
 
 ####<img src="https://github.com/favicon.ico" width="35">  Starting with Github
 Congratulations! Since you are reading this, you have accomplised the first step in your onboarding process... accessing our Github site! You are inside what is called a repository (repo for short). Each repo on the NYU mHealth site is associated with a research project or topic where files, code, and documentation can be updated and managed. Git is the current cool kid for [version control](http://git-scm.com/video/what-is-version-control). But more on that later...
@@ -37,7 +37,7 @@ In the spirit of collaboration and innovation, we have borrowed a project manage
 ####<img src="/Images/toolbox.png" width="50">  The Toolbox
 We have many tools we use at NYU mHealth to help us communicate and innovate. Some of these you will know, some you will learn, and some you can ignore. Some you may introduce to us! 
 
-Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, third, or fourth) week with us, go through each of the links in the **Required** list. Here you will find intros and tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email holly.orr@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
+Below is a current list of what we use with a link to an introduction and tutorials. During your first (second, third, or fourth) week with us, go through each of the links in the **Required** list. Here you will find intros and tutorials to help you get started. You should have been given access to these tools on your first day. If you find you can't get in or don't know how (oops - our bad!), please email av1155@nyu.edu and sasha.guttentag@nyu.edu and we'll hook you up.
 
 Remember - there are no "dumb" questions - so always feel free to ask questions. We've all been there...
 
@@ -74,7 +74,7 @@ We currently have three Google calendars we can share with you. For help on how 
  - **mHealth Out of Office:** Keep this up to date with times you will be out of office.  
  - **mHealth Events:** Add events here that we host or would be of interest to the group.
  - **mHealth Meetings:** Add all meetings here.
- - **41 E. 11th St. Room Reservation:** To book rooms for meetings at CGPH request access from koylan.gomez@nyu.edu.
+ 
  
 **Travel and Reimbursements**  
 This is Koylan Gomez, Faculty Admin Extraordinaire - koylan.gomez@nyu.edu  <img src="/Images/koylan.JPG" width="35">  
@@ -85,9 +85,9 @@ Koylan can also help with reimbursements on travel expenses and other purchases 
 
 **Meetings, Video Conferencing, and Phone Conference Line**  
 
-We have two weekly meetings in Room 718:
-- [The Weekly Sprint Meeting](The Weekly Sprint Meeting.md) (staff meeting - student's attendance optional): Tuesdays - 10:30-11:00
-- [The Weekly Team Meeting](The Weekly Team Meeting.md) (try to be at this one!): Wednesdays - 11:00-12:00
+We have a weekly meetings in Room 718:
+
+- [The Weekly Team Meeting](The Weekly Team Meeting.md): Wednesdays - 11:00-12:00
 
 When you can't meet face-to-face, you can come virtually by going here: https://appear.in/nyumhealth.
 
