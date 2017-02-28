@@ -6,6 +6,8 @@
         - download the most updated MapMob app version 1.0.47
         - go to settings -- > location --> always 
         - go to the MapMob app: create an account --> on the right corner: acrivate tracking 
+  ![alt text](https://github.com/nyu-mhealth/Team-Manual/blob/master/Images/IMG_2012.PNG)
+
         
         
 #### 2. Allow Google Timeline: 
