@@ -1,5 +1,5 @@
 
-#### As part of MapMob testing, we are looking to test geolocation across platforms. But we can only do so if we have people tracking! 
+#### As part of MapMob testing, we are looking to colllect data on geolocation across platforms. But we can only do so if we have people tracking! 
 
 ## How can you help and be part of the research?  
 #### 1. Track with MapMob:
