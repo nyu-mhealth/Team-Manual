@@ -6,7 +6,8 @@
         - download the most updated MapMob app version 1.0.47
         - go to settings -- > location --> always 
         - go to the MapMob app: create an account --> on the right corner: acrivate tracking 
-###<img src="/Images/IMG_2012.PNG width="220">
+###<img src="/Images/cropped-logo_transparent.png" width="40">
+###<img src="/Images/IMG_2012.PNG" width="220">
 
         
         
