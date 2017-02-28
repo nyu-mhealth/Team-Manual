@@ -16,9 +16,8 @@
         - google app - press on the left corner of the page (your photo) 
         - privacy --> location --> location reporting -choose--> report from this device - done
         
-###<img src="/Images/IMG_2013.PNG" width="160"> ###<img src="/Images/IMG_2014.PNG" width="160">
-###<img src="/Images/IMG_2015.PNG" width="160">
-###<img src="/Images/IMG_2016.PNG" width="160">
+###<img src="/Images/IMG_2013.PNG" width="165">  <img src="/Images/IMG_2014.PNG" width="165">
+###<img src="/Images/IMG_2015.PNG" width="165">  <img src="/Images/IMG_2016.PNG" width="165">
 
      *   make sure your gmail account is the same in the app and online
      **  to see your timeline, go to the desktop version on the left botton -- go to: timeline 
