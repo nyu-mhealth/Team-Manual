@@ -16,8 +16,7 @@
         - google app - press on the left corner of the page (your photo) 
         - privacy --> location --> location reporting -choose--> report from this device - done
         
-###<img src="/Images/IMG_2013.PNG" width="160"> 
-###<img src="/Images/IMG_2014.PNG" width="160">
+###<img src="/Images/IMG_2013.PNG" width="160"> ###<img src="/Images/IMG_2014.PNG" width="160">
 ###<img src="/Images/IMG_2015.PNG" width="160">
 ###<img src="/Images/IMG_2016.PNG" width="160">
 
