@@ -22,7 +22,7 @@
      *   make sure your gmail account is the same in the app and online
      **  to see your timeline, go to the desktop version on the left botton -- go to: timeline 
 
-App Feedback: 
+#### App Feedback: 
 1. we want to know how did the app usage influenced your phone: keep track of your battery level by documenting the % within a specific time frame when your phone isn't connected to a power source ( e.g 30 min or 1 hr). use the spreadsheet to keep record of the start and end time you paid attention of your battery level. 
 2. any bugs you faced using the / registration 
 3. any suggestions you have in mind? 
