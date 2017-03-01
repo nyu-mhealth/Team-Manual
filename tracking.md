@@ -8,8 +8,8 @@
         your exact location! :) If you put creepiness aside this tool is actually quite cool and can identify places you've been to as 
         well as the mode of transportation you used with exact time stamps.  You can view it later on your app and even download your own 
         data. 
-
-The second tracking mode is an app called MapMob, which we are working on within the mHealth team along with our collaborators. This app is tracking your location with 3 minutes intervals, and later using an encrypted server to store the data.
+        The second tracking mode is an app called MapMob, which we are working on within the mHealth team along with our collaborators.
+        This app is tracking your location with 3 minutes intervals, and later using an encrypted server to store the data.
 ###<img src="/Images/cropped-logo_transparent.png" width="40">
 ## How can you help and be part of the research?  
 #### 1. Track with MapMob:
