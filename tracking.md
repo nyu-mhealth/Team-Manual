@@ -2,7 +2,11 @@
 #### As part of MapMob testing, we are looking to colllect data on geolocation across platforms. But we can only do so if we have people tracking! 
         Plan is for the team to track for a week, it doesn't mean you need to track for an entire week, 2-3 days would be 
         really helpful for us!
-       Here are instructions on how to activate two types of tracking in your phone. The first one is Google Timeline , which is (as you          maybe guessed) a Google product. For those of you who aren't familiar with it, when using this tool google will constantly know            your exact location! :) If you put creepiness aside this tool is actually quite cool and can identify places you've been to as well        as the mode of transportation you used with exact time stamps.  You can view it later on your app and even download your own data. 
+        Here are instructions on how to activate two types of tracking in your phone. The first one is Google Timeline , which is (as you
+        maybe guessed) a Google product. For those of you who aren't familiar with it, when using this tool google will constantly know 
+        your exact location! :) If you put creepiness aside this tool is actually quite cool and can identify places you've been to as 
+        well as the mode of transportation you used with exact time stamps.  You can view it later on your app and even download your own 
+        data. 
 
 The second tracking mode is an app called MapMob, which we are working on within the mHealth team along with our collaborators. This app is tracking your location with 3 minutes intervals, and later using an encrypted server to store the data.
 ###<img src="/Images/cropped-logo_transparent.png" width="40">
