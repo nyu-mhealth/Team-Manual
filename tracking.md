@@ -39,3 +39,4 @@
         Use the spreadsheet to keep record of the start and end time you paid attention of your battery level. 
         2. any bugs you faced using the / registration 
         3. any suggestions you have in mind? 
+        (we will send the spreadsheet seperatlly) 
