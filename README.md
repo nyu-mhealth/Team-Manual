@@ -70,6 +70,7 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
   - [Jupyter Notebooks](http://jupyter.org/)  
 
 ####<img src="/Images/spring-desktop-calendar-variant.png" width="50">  The Need to Know
+
 **Calendars and Schedules**    
 
 When you're not going to be in the office. Rather your sick, travelling, overwhelmed with midterms, broke up with your boyfriend/girlfrind/both/yourself - please tell us you can't come in through Slack or email.    
