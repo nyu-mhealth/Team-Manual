@@ -1,6 +1,7 @@
-##Tools for Communication
+## Tools for Communication
 <img src="/Images/can-you-hear-me-now.jpg" width="300">
-####Can You Hear Me Now?
+
+#### Can You Hear Me Now?
 
 <img src="/Images/slack.png" width="40">  **Slack**  
 By now you should have been added to the NYU mHealth Slack account and been shown how to use it during your onboarding. If you haven't - tell us!
