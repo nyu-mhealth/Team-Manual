@@ -1,7 +1,9 @@
 # Welcome to the NYU mHealth Team
 
-##<img src="/Images/nervous.jpg" width="120">  Your First Day: Don't Sweat It
-####<img src="/Images/cropped-logo_transparent.png" width="40">  Welcome
+<img src="/Images/nervous.jpg" width="120">  
+## Your First Day: Don't Sweat It
+<img src="/Images/cropped-logo_transparent.png" width="40">  
+#### Welcome
 We are excited to have you as part of the NYU mHealth Team! 
 
 You can use this manual to learn more about the team, systems, and tools we use for effective collaboration. Have fun!
