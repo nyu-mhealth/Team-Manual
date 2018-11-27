@@ -49,6 +49,9 @@ Remember - there are no "dumb" questions - so always feel free to ask questions.
 - [Github/Git/Git Desktop](Github, Git Desktop, and Git.md)
 - [Slack](How We Communicate.md)
 
+**Optional - Check if Needed**  
+- [IRB Certification - NYU (CITI)](https://www.citiprogram.org/) - Please select the social behavior research option. Once you complete, please email your certificate to Avigail and/or Sasha. 
+
 **Optional - Request Access**  
 *Access will be given based on the research/projects you work on - but request access to anything you would like to explore!*
 - [Survos](https://survos.com/)
