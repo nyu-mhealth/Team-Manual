@@ -131,8 +131,46 @@
 * * *    
 #   
 # Branching
+  >### N.B., *_git switch_* is the newer more concise version of *_git checkout_*
+    ## git checkout has more options - the Swiss-Army Knife of Git
     
-  >### .git branch naming conventions are a key aspect of a team's `"git flow"`
+  ### *_Branches grow from trees_*: Current "target" branch is base/root of any new branch 
+  >### $ git checkout "target-branch" // a new branch requires you first checkout the target / base
+
+  ### current target branch == git HEAD(er) -> branch reference -> any commit(_hash)
+  >#### HEAD == a "Branch pointer" that refers to our exact location - points to a branch reference
+  >#### HEAD -> Master <Master is the [root] branch reference location>
+  >#### HEAD is like a bookmark location within a book (repository), which can only be open to one location
+  >#### branch pointers (HEAD) can be switched (checked-out) to select different commits along different branches
+  
+  ### Create + Switch to newbranch at once with "-c" flag
+  >### $ git switch -c "namenewbranch" // GitKraken does not list `git switch` but instead `checkout`
+  >### $ git checkout -b "namenewbranch" // same function as git switch
+  
+  ### Rename using -m _NOT_ -n (_m refers to "move")
+  >### $ git branch -m "newname"
+  
+  ### Delete branch using -d
+  >### $ git branch -d "branchtobedeleted" // BUT you must switch HEAD off of the Branch prior to delete
+  
+  ### View existing Branches
+  >### git branch // type "q" to exit
+  >### branch with "*" is the current branch
+  
+  ### Create a new Branch - just add a name
+  >### git branch "newbranch" // at this point, Master==newbranch -> they have the same HEAD commit location
+  >### on new branch, you remain on Master, until *_Git Switch_* (older is "Checkout")
+  >### git switch newbranch // HEAD is now newbranch
+  >### git log // HEAD is pointing to newbranch
+  >### first commit on newbranch - N.B., git status (Master) branch is left behind (log too)
+  
+  ### Push new brach to remote repository
+  >### git push -u origin "new branch name"
+   
+* * *
+#
+# Branch naming system
+  >### .git branch naming conventions are a key aspect of a team's `"git flow"` process
   * `git check-ref-format --branch <branch/name>` inspects branch name for errors (leading . \ @)
   * `Historical note :` The branch name default changed from `Master` to `Main` late 2020/early 2021 
 
@@ -157,40 +195,24 @@
     /do/describe
     /do/tables
     /ipynb/...
-  
     
-  ## Git HEAD -> branch reference -> commit
-  >#### HEAD == a "Branch pointer" that refers to our exact location - points to a branch reference
-  >#### HEAD -> Master <Master is the [root] branch reference location>
-  >#### HEAD is like a bookmark location within a book (repository), which can only be open to one location
-  >#### branch pointers (HEAD) can be switched (checked-out) to select different commits along different branches
-  
-  ### View existing Branches
-  >### git branch // type "q" to exit
-  >### branch with "*" is the current branch
-  
-  ### Create a new Branch - just add a name
-  >### git branch "newbranch" // at this point, Master==newbranch -> they have the same HEAD commit location
-  >### on new branch, you remain on Master, until *_Git Switch_* (older is "Checkout")
-  >### git switch newbranch // HEAD is now newbranch
-  >### git log // HEAD is pointing to newbranch
-  >### first commit on newbranch - N.B., git status (Master) branch is left behind (log too)
-  
-  ### *_Branch Key #1_*: Current Branch has a direct bearing on any new Branch that is created
-  
-  ### *_Branch Key #2_*: Create + Switch to newbranch at once with "-c" flag
-  >### $ git switch -c "namenewbranch" // GitKraken does not list `git switch` but instead `checkout`
-  >### $ git checkout -b "namenewbranch" // same function as git switch
-  
-  ### *_Branch Key #3_*: Rename using -m _NOT_ -n (_m refers to "move")
-  >### $ git branch -m "newname"
-  
-  ### *_Branch Key #4_*: Delete branch using -d
-  >### $ git branch -d "branchtobedeleted" // BUT you must switch HEAD off of the Branch prior to delete
-  
-  ## N.B., Git Switch is the newer more concise version of *_Git Checkout_*
-  >### Git Checkout has more options - the Swiss-Army Knife of Git
-  
+* * *
+#
+# Stage, Commit and Push
+   ### Each Git Commit creates a unique "hash" : an alpha-numeric key-code, unique identifier for each commit 
+
+  >### Find a recent commit hash using $ git log command, Copy the hash of the commit and paste into 
+    $ git checkout "hash" 
+    or $ git cherry-pick "hash"
+
+  >#### each commit references a parent commit that precedes it (other than initial commit)
+
+  >#### commits seldom proceed in purely linear fashion, especially with multiple users
+
+  >#### *_branching_* allows for (super-complex) parallel development while retaining the same core project features
+
+  >#### *_merging_* reconciles differences 
+    
 * * *    
 #
 # Merging
@@ -212,19 +234,7 @@
   >### * Decide what to keep, Then remove conflict markers from the document
   >### * $ git add the changes and commit to resolve the conflict
 
-* * *
-#
-# Stage, Commit and Push
-   ### Each Git Commit creates a unique "hash" : an alpha-numeric key-code, unique identifier for each commit 
 
-  >#### each commit references a parent commit that precedes it (other than initial commit)
-
-  >#### commits seldom proceed in purely linear fashion, especially with multiple users
-
-  >#### *_branching_* allows for (super-complex) parallel development while retaining the same core project features
-
-  >#### *_merging_* reconciles differences 
-  
 * * *    
 #
 # Diff 
@@ -233,7 +243,7 @@
 #
 # Stashing
   
-  
+    
 * * *
 #
 # GitKraken
