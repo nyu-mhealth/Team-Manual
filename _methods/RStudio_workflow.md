@@ -160,7 +160,19 @@ git remote -v or git remote --verbose
 * * *
 ##
 ## RStudio Workflow Overview: 
-## Branch (`git switch -c "new"`) -> work -> `git commit`
+### [Remote] First, create GitHub Repo (establishing upstream origin)
+### [Remote] Update .gitignore (using template R/python/other)
+### [Local] Clone repo (recommend GitKraken)
+### [Local] RStudio: New Session: New .Rproj -> From Existing Directory (local clone)
+### [Local] Terminal [RStudio OR GitKraken or Warp]: New (local) Branch (`git checkout -b "new/branch"`) 
+### [Local] RStudio: File Menu: (git touch?) New .Rproj File (e.g., Shiny Web App or .Rmd) 
+### [Local] Terminal [RStudio OR GitKraken]: `git status` Stage `git add .` 
+### [Local] Terminal `git status` then `git commit -m "instruction"` then `git log` (view commit #)
+### [Local] (!) now `git push` in RStudio FAILS: Instead use GitKraken: push to remote origin/"new/branch"
+>### Alternatively create "new/branch" manually at GitHub remote repo 
+### [Remote] GitHub: create Pull Request -> merge new/branch commit into origin/main
+### [Local] `git checkout -b main` Checkout (local)/main and Fetch (pull+fast-forward merge) from origin/main
+### [Local] `git checkout -b new/branch` and proceed with work within this repo
 >### Stage as you go and commit chunks of work regularly 
 
 ###
@@ -170,14 +182,16 @@ git remote -v or git remote --verbose
 
 ### 2) Stage the local file change(s) you would like to -commit-:
 >#### Use "Diff" to review changes since the last commit, click on “Diff” for a Git pop-up
-  * Use `git status` in addition to `git diff` (?) 
+  * Use `git status` 
+  * Use `git diff` 
   * use `git add .` to stage changes [`git reset` to unstage]
 
 - [Alternative: RStudio IDE] Click the “Git” tab in upper right pane
 - Check “Staged” box for any files whose existence or modifications you want to commit.
     
 ### 3) Commit some changes to your local repo:
-- If you’re not already in the Git pop-up, click “Commit”
+- `git commit -m "type a message as if you are issuing an instruction"`
+- Or, if you’re not already in the Git pop-up, click “Commit”
 - Type a message in “Commit message”, such as “Commit from RStudio”
 - Click “Commit”
     
